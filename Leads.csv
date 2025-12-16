@@ -1,0 +1,201 @@
+LeadID,LeadName,Email,Phone,LeadSource,Status,CreatedDate
+L1000,Lead_0,,,LinkedIn,Working,2023-08-28
+L1001,Lead_1,lead1@mail.com,9876500001,,New,2023-02-26
+L1002,Lead_2,lead2@mail.com,9876500002,,Working,2023-08-10
+L1003,Lead_3,lead3@mail.com,9876500003,Event,Working,2023-01-12
+L1004,Lead_4,lead4@mail.com,9876500004,Referral,Qualified,2023-04-21
+L1005,Lead_5,lead5@mail.com,9876500005,LinkedIn,New,2023-07-10
+L1006,Lead_6,lead6@mail.com,9876500006,LinkedIn,Qualified,2023-08-13
+L1007,Lead_7,,9876500007,Web,,2023-04-13
+L1008,Lead_8,lead8@mail.com,9876500008,Event,New,2023-05-11
+L1009,Lead_9,lead9@mail.com,,Event,Working,2023-06-25
+L1010,Lead_10,lead10@mail.com,9876500010,LinkedIn,Qualified,2023-03-12
+L1011,Lead_11,lead11@mail.com,9876500011,Referral,Working,2023-08-22
+L1012,Lead_12,lead12@mail.com,9876500012,Email Campaign,New,2023-06-01
+L1013,Lead_13,lead13@mail.com,9876500013,Event,Qualified,2023-05-20
+L1014,Lead_14,,9876500014,Event,Qualified,2023-04-16
+L1015,Lead_15,lead15@mail.com,9876500015,,Disqualified,2023-07-31
+L1016,Lead_16,lead16@mail.com,9876500016,,Disqualified,2023-03-10
+L1017,Lead_17,lead17@mail.com,9876500017,Web,,2023-04-10
+L1018,Lead_18,lead18@mail.com,,,New,2023-03-25
+L1019,Lead_19,lead19@mail.com,9876500019,Referral,New,2023-09-24
+L1020,Lead_20,lead20@mail.com,9876500020,Referral,Qualified,2023-09-14
+L1021,Lead_21,,9876500021,Event,Working,2023-01-09
+L1022,Lead_22,lead22@mail.com,9876500022,Email Campaign,New,2023-01-08
+L1023,Lead_23,lead23@mail.com,9876500023,,Working,2023-10-01
+L1024,Lead_24,lead24@mail.com,9876500024,,,2023-03-13
+L1025,Lead_25,lead25@mail.com,9876500025,,Qualified,2023-04-08
+L1026,Lead_26,lead26@mail.com,9876500026,Referral,Qualified,2023-05-16
+L1027,Lead_27,lead27@mail.com,,,Qualified,2023-02-19
+L1028,Lead_28,,9876500028,Web,New,2023-05-04
+L1029,Lead_29,lead29@mail.com,9876500029,,,2023-05-09
+L1030,Lead_30,lead30@mail.com,9876500030,LinkedIn,Working,2023-07-21
+L1031,Lead_31,lead31@mail.com,9876500031,,,2023-09-28
+L1032,Lead_32,lead32@mail.com,9876500032,LinkedIn,Disqualified,2023-06-12
+L1033,Lead_33,lead33@mail.com,9876500033,Event,New,2023-10-20
+L1034,Lead_34,lead34@mail.com,9876500034,LinkedIn,,2023-03-10
+L1035,Lead_35,,9876500035,LinkedIn,New,2023-02-28
+L1036,Lead_36,lead36@mail.com,,,Working,2023-06-05
+L1037,Lead_37,lead37@mail.com,9876500037,Referral,Qualified,2023-04-03
+L1038,Lead_38,lead38@mail.com,9876500038,,New,2023-05-19
+L1039,Lead_39,lead39@mail.com,9876500039,,Working,2023-02-04
+L1040,Lead_40,lead40@mail.com,9876500040,Email Campaign,,2023-06-04
+L1041,Lead_41,lead41@mail.com,9876500041,,New,2023-02-06
+L1042,Lead_42,,9876500042,Email Campaign,New,2023-08-24
+L1043,Lead_43,lead43@mail.com,9876500043,LinkedIn,Working,2023-09-28
+L1044,Lead_44,lead44@mail.com,9876500044,Referral,,2023-08-26
+L1045,Lead_45,lead45@mail.com,,Web,Working,2023-06-30
+L1046,Lead_46,lead46@mail.com,9876500046,Web,,2023-09-02
+L1047,Lead_47,lead47@mail.com,9876500047,Referral,New,2023-04-20
+L1048,Lead_48,lead48@mail.com,9876500048,Email Campaign,,2023-05-22
+L1049,Lead_49,,9876500049,Email Campaign,Qualified,2023-10-03
+L1050,Lead_50,lead50@mail.com,9876500050,Email Campaign,,2023-03-28
+L1051,Lead_51,lead51@mail.com,9876500051,Event,Working,2023-08-29
+L1052,Lead_52,lead52@mail.com,9876500052,Web,Disqualified,2023-02-09
+L1053,Lead_53,lead53@mail.com,9876500053,Web,Working,2023-03-26
+L1054,Lead_54,lead54@mail.com,,LinkedIn,Working,2023-02-07
+L1055,Lead_55,lead55@mail.com,9876500055,LinkedIn,Qualified,2023-06-29
+L1056,Lead_56,,9876500056,,New,2023-10-23
+L1057,Lead_57,lead57@mail.com,9876500057,Web,Working,2023-09-04
+L1058,Lead_58,lead58@mail.com,9876500058,LinkedIn,Qualified,2023-07-12
+L1059,Lead_59,lead59@mail.com,9876500059,,,2023-02-27
+L1060,Lead_60,lead60@mail.com,9876500060,LinkedIn,Qualified,2023-03-10
+L1061,Lead_61,lead61@mail.com,9876500061,,Qualified,2023-04-28
+L1062,Lead_62,lead62@mail.com,9876500062,Web,Qualified,2023-09-19
+L1063,Lead_63,,,Web,Working,2023-05-15
+L1064,Lead_64,lead64@mail.com,9876500064,Email Campaign,Qualified,2023-06-08
+L1065,Lead_65,lead65@mail.com,9876500065,Web,Working,2023-06-06
+L1066,Lead_66,lead66@mail.com,9876500066,Email Campaign,Working,2023-07-14
+L1067,Lead_67,lead67@mail.com,9876500067,LinkedIn,Qualified,2023-07-13
+L1068,Lead_68,lead68@mail.com,9876500068,Email Campaign,,2023-07-20
+L1069,Lead_69,lead69@mail.com,9876500069,,Disqualified,2023-04-26
+L1070,Lead_70,,9876500070,Event,New,2023-08-08
+L1071,Lead_71,lead71@mail.com,9876500071,Event,New,2023-10-12
+L1072,Lead_72,lead72@mail.com,,Email Campaign,New,2023-01-03
+L1073,Lead_73,lead73@mail.com,9876500073,Event,Qualified,2023-04-29
+L1074,Lead_74,lead74@mail.com,9876500074,Event,New,2023-04-03
+L1075,Lead_75,lead75@mail.com,9876500075,LinkedIn,Disqualified,2023-10-28
+L1076,Lead_76,lead76@mail.com,9876500076,LinkedIn,Disqualified,2023-10-24
+L1077,Lead_77,,9876500077,Referral,,2023-06-26
+L1078,Lead_78,lead78@mail.com,9876500078,Referral,New,2023-06-06
+L1079,Lead_79,lead79@mail.com,9876500079,Web,New,2023-01-17
+L1080,Lead_80,lead80@mail.com,9876500080,Web,New,2023-01-01
+L1081,Lead_81,lead81@mail.com,,,Working,2023-06-14
+L1082,Lead_82,lead82@mail.com,9876500082,Event,New,2023-01-22
+L1083,Lead_83,lead83@mail.com,9876500083,Referral,Qualified,2023-03-07
+L1084,Lead_84,,9876500084,Email Campaign,New,2023-03-06
+L1085,Lead_85,lead85@mail.com,9876500085,Email Campaign,,2023-07-10
+L1086,Lead_86,lead86@mail.com,9876500086,Referral,Disqualified,2023-09-11
+L1087,Lead_87,lead87@mail.com,9876500087,,,2023-01-12
+L1088,Lead_88,lead88@mail.com,9876500088,Email Campaign,,2023-05-06
+L1089,Lead_89,lead89@mail.com,9876500089,,,2023-08-13
+L1090,Lead_90,lead90@mail.com,,,Qualified,2023-10-21
+L1091,Lead_91,,9876500091,Email Campaign,New,2023-01-05
+L1092,Lead_92,lead92@mail.com,9876500092,Web,,2023-01-14
+L1093,Lead_93,lead93@mail.com,9876500093,Event,Working,2023-01-07
+L1094,Lead_94,lead94@mail.com,9876500094,,Disqualified,2023-10-02
+L1095,Lead_95,lead95@mail.com,9876500095,,Working,2023-02-09
+L1096,Lead_96,lead96@mail.com,9876500096,Referral,,2023-03-05
+L1097,Lead_97,lead97@mail.com,9876500097,Referral,Qualified,2023-08-21
+L1098,Lead_98,,9876500098,Event,,2023-05-06
+L1099,Lead_99,lead99@mail.com,,Event,Working,2023-04-06
+L1100,Lead_100,lead100@mail.com,9876500100,Referral,Working,2023-01-01
+L1101,Lead_101,lead101@mail.com,9876500101,LinkedIn,Disqualified,2023-04-07
+L1102,Lead_102,lead102@mail.com,9876500102,Event,Qualified,2023-03-05
+L1103,Lead_103,lead103@mail.com,9876500103,,,2023-05-08
+L1104,Lead_104,lead104@mail.com,9876500104,Email Campaign,New,2023-07-14
+L1105,Lead_105,,9876500105,Web,Qualified,2023-06-08
+L1106,Lead_106,lead106@mail.com,9876500106,Referral,Qualified,2023-01-27
+L1107,Lead_107,lead107@mail.com,9876500107,,,2023-05-26
+L1108,Lead_108,lead108@mail.com,,Web,Qualified,2023-01-19
+L1109,Lead_109,lead109@mail.com,9876500109,LinkedIn,,2023-01-15
+L1110,Lead_110,lead110@mail.com,9876500110,Email Campaign,Qualified,2023-09-12
+L1111,Lead_111,lead111@mail.com,9876500111,Email Campaign,Disqualified,2023-07-02
+L1112,Lead_112,,9876500112,Web,New,2023-01-13
+L1113,Lead_113,lead113@mail.com,9876500113,,Qualified,2023-06-16
+L1114,Lead_114,lead114@mail.com,9876500114,,Working,2023-01-14
+L1115,Lead_115,lead115@mail.com,9876500115,,Working,2023-10-01
+L1116,Lead_116,lead116@mail.com,9876500116,Event,,2023-01-21
+L1117,Lead_117,lead117@mail.com,,Referral,Qualified,2023-08-29
+L1118,Lead_118,lead118@mail.com,9876500118,Email Campaign,Qualified,2023-08-04
+L1119,Lead_119,,9876500119,,,2023-04-03
+L1120,Lead_120,lead120@mail.com,9876500120,Referral,,2023-08-29
+L1121,Lead_121,lead121@mail.com,9876500121,,Working,2023-04-28
+L1122,Lead_122,lead122@mail.com,9876500122,Web,Disqualified,2023-07-08
+L1123,Lead_123,lead123@mail.com,9876500123,LinkedIn,Qualified,2023-01-21
+L1124,Lead_124,lead124@mail.com,9876500124,Event,Disqualified,2023-06-14
+L1125,Lead_125,lead125@mail.com,9876500125,Referral,,2023-06-06
+L1126,Lead_126,,,Event,New,2023-06-12
+L1127,Lead_127,lead127@mail.com,9876500127,Email Campaign,Disqualified,2023-02-26
+L1128,Lead_128,lead128@mail.com,9876500128,Referral,Working,2023-09-13
+L1129,Lead_129,lead129@mail.com,9876500129,Email Campaign,Qualified,2023-05-28
+L1130,Lead_130,lead130@mail.com,9876500130,Email Campaign,Disqualified,2023-08-06
+L1131,Lead_131,lead131@mail.com,9876500131,LinkedIn,Qualified,2023-06-04
+L1132,Lead_132,lead132@mail.com,9876500132,,New,2023-09-12
+L1133,Lead_133,,9876500133,Web,Disqualified,2023-08-13
+L1134,Lead_134,lead134@mail.com,9876500134,Email Campaign,Qualified,2023-10-05
+L1135,Lead_135,lead135@mail.com,,Event,New,2023-08-19
+L1136,Lead_136,lead136@mail.com,9876500136,Referral,New,2023-01-17
+L1137,Lead_137,lead137@mail.com,9876500137,Web,Working,2023-08-19
+L1138,Lead_138,lead138@mail.com,9876500138,LinkedIn,Working,2023-07-11
+L1139,Lead_139,lead139@mail.com,9876500139,Event,Disqualified,2023-05-21
+L1140,Lead_140,,9876500140,,Qualified,2023-03-26
+L1141,Lead_141,lead141@mail.com,9876500141,Event,Qualified,2023-04-26
+L1142,Lead_142,lead142@mail.com,9876500142,Web,Qualified,2023-08-05
+L1143,Lead_143,lead143@mail.com,9876500143,Referral,Qualified,2023-09-03
+L1144,Lead_144,lead144@mail.com,,Email Campaign,New,2023-07-18
+L1145,Lead_145,lead145@mail.com,9876500145,,Working,2023-02-23
+L1146,Lead_146,lead146@mail.com,9876500146,Web,Working,2023-01-16
+L1147,Lead_147,,9876500147,Referral,Disqualified,2023-08-23
+L1148,Lead_148,lead148@mail.com,9876500148,Event,Disqualified,2023-04-26
+L1149,Lead_149,lead149@mail.com,9876500149,Web,Working,2023-10-14
+L1150,Lead_150,lead150@mail.com,9876500150,,,2023-10-11
+L1151,Lead_151,lead151@mail.com,9876500151,Referral,Qualified,2023-08-27
+L1152,Lead_152,lead152@mail.com,9876500152,Web,Working,2023-06-12
+L1153,Lead_153,lead153@mail.com,,Web,Working,2023-01-16
+L1154,Lead_154,,9876500154,Web,Qualified,2023-05-12
+L1155,Lead_155,lead155@mail.com,9876500155,Event,,2023-10-14
+L1156,Lead_156,lead156@mail.com,9876500156,Web,Disqualified,2023-08-03
+L1157,Lead_157,lead157@mail.com,9876500157,Referral,Disqualified,2023-09-09
+L1158,Lead_158,lead158@mail.com,9876500158,,Qualified,2023-09-24
+L1159,Lead_159,lead159@mail.com,9876500159,Referral,Qualified,2023-06-03
+L1160,Lead_160,lead160@mail.com,9876500160,Web,Working,2023-02-20
+L1161,Lead_161,,9876500161,Web,Working,2023-08-03
+L1162,Lead_162,lead162@mail.com,,Email Campaign,New,2023-09-24
+L1163,Lead_163,lead163@mail.com,9876500163,Event,,2023-09-27
+L1164,Lead_164,lead164@mail.com,9876500164,,Working,2023-05-27
+L1165,Lead_165,lead165@mail.com,9876500165,LinkedIn,Working,2023-09-28
+L1166,Lead_166,lead166@mail.com,9876500166,Email Campaign,Qualified,2023-04-09
+L1167,Lead_167,lead167@mail.com,9876500167,Referral,Working,2023-01-13
+L1168,Lead_168,,9876500168,LinkedIn,,2023-05-19
+L1169,Lead_169,lead169@mail.com,9876500169,Web,Disqualified,2023-10-20
+L1170,Lead_170,lead170@mail.com,9876500170,Email Campaign,Working,2023-06-25
+L1171,Lead_171,lead171@mail.com,,Web,Qualified,2023-07-08
+L1172,Lead_172,lead172@mail.com,9876500172,Email Campaign,Disqualified,2023-07-11
+L1173,Lead_173,lead173@mail.com,9876500173,,Disqualified,2023-08-06
+L1174,Lead_174,lead174@mail.com,9876500174,Referral,Qualified,2023-01-05
+L1175,Lead_175,,9876500175,Web,New,2023-08-09
+L1176,Lead_176,lead176@mail.com,9876500176,Web,Working,2023-01-28
+L1177,Lead_177,lead177@mail.com,9876500177,Event,Qualified,2023-03-14
+L1178,Lead_178,lead178@mail.com,9876500178,,New,2023-10-20
+L1179,Lead_179,lead179@mail.com,9876500179,LinkedIn,,2023-09-11
+L1180,Lead_180,lead180@mail.com,,Web,Qualified,2023-04-24
+L1181,Lead_181,lead181@mail.com,9876500181,LinkedIn,,2023-05-31
+L1182,Lead_182,,9876500182,Event,,2023-09-24
+L1183,Lead_183,lead183@mail.com,9876500183,,Disqualified,2023-08-21
+L1184,Lead_184,lead184@mail.com,9876500184,LinkedIn,,2023-08-06
+L1185,Lead_185,lead185@mail.com,9876500185,LinkedIn,Disqualified,2023-05-12
+L1186,Lead_186,lead186@mail.com,9876500186,,New,2023-08-03
+L1187,Lead_187,lead187@mail.com,9876500187,Event,Working,2023-01-27
+L1188,Lead_188,lead188@mail.com,9876500188,Email Campaign,Qualified,2023-05-04
+L1189,Lead_189,,,LinkedIn,New,2023-05-03
+L1190,Lead_190,lead190@mail.com,9876500190,Referral,Working,2023-07-20
+L1191,Lead_191,lead191@mail.com,9876500191,LinkedIn,Disqualified,2023-03-15
+L1192,Lead_192,lead192@mail.com,9876500192,LinkedIn,Working,2023-01-03
+L1193,Lead_193,lead193@mail.com,9876500193,LinkedIn,,2023-06-30
+L1194,Lead_194,lead194@mail.com,9876500194,,Disqualified,2023-07-06
+L1195,Lead_195,lead195@mail.com,9876500195,,Working,2023-07-24
+L1196,Lead_196,,9876500196,Email Campaign,Disqualified,2023-10-01
+L1197,Lead_197,lead197@mail.com,9876500197,Event,Working,2023-10-05
+L1198,Lead_198,lead198@mail.com,,LinkedIn,Working,2023-02-17
+L1199,Lead_199,lead199@mail.com,9876500199,,Working,2023-05-30
